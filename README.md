@@ -1,7 +1,4 @@
 # Task Manager
-
-## Introduction:
-
 ### This task manager that allows you to add tasks to a list, mark tasks as complete, and view tasks. It provides a menu-driven interface to perform these operations.
 
 ## Quick Start
@@ -15,7 +12,7 @@
 
 * <a href="https://nbviewer.org/github/AhemdMahmoud/MiniNotion/blob/main/Tasks_Manager.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 * [github.com's notebook viewer](https://github.com/AhemdMahmoud/MiniNotion/blob/main/Tasks_Manager.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
-
+* [replit 2Files viewer](https://replit.com/@AhmedMahmoud124/MININOTION#task_manager.py) 
 ## or Usage:
 
 ### Run the script using a Python interpreter. You can do this by opening your terminal or command prompt and navigating to the directory containing the script. Then, run the following command:
