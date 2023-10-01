@@ -26,6 +26,8 @@ python task_manager.py
 ## 3- View tasks
 ## 4- Quit
 * Use the numeric keys (1-4) to select an option:
+## This picture shows some of what is happening and the details are below
+![tajs](https://github.com/AhemdMahmoud/MiniNotion/assets/109467491/0f5d2c6b-8363-407f-b01a-4a5e30b7ec59)
 
 * # Option 1: Add tasks to the list
 
