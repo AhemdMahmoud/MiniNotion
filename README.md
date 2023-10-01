@@ -66,7 +66,10 @@ python task_manager.py
 #### If you choose to view tasks (Option 3) and there are no tasks in the list, you will be informed that there are no tasks to show.
 
 # * Note: This script is a basic example of a task manager and does not provide long-term storage for tasks. When you quit the program, any tasks added will be lost.
+## and i applied medule take function and this This picture shows  happening and the details 
+
 
 Conclusion:
 
 This task manager script is a simple tool for managing tasks in a list. It provides options for adding tasks, marking them as complete, and viewing the list. You can use this script to keep track of your tasks in a straightforward manner.
+
