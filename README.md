@@ -66,7 +66,8 @@ python task_manager.py
 #### If you choose to view tasks (Option 3) and there are no tasks in the list, you will be informed that there are no tasks to show.
 
 # * Note: This script is a basic example of a task manager and does not provide long-term storage for tasks. When you quit the program, any tasks added will be lost.
-## and i applied medule take function and this This picture shows  happening and the details 
+# and i applied medule take function and this This picture shows  happening and the details 
+![new_tasks](https://github.com/AhemdMahmoud/MiniNotion/assets/109467491/ac9bb7f4-e657-45ad-b45d-288e0b1fc324)
 
 
 Conclusion:
